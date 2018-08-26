@@ -1,0 +1,41 @@
+{
+    "loginScreen": {
+        "passwordHint": "Insira sua senha",
+        "emailHint": "Insira seu email",
+        "forgotPassword": "Esqueci a senha",
+        "btnLogin": "Entrar"
+    },
+    "forgotPasswordScreen": {
+        "emailHint": "Digite seu email",
+        "btnSend": "Enviar",
+        "Ok": "Ok"
+    },
+    "menuScreen": {
+        "preDelivery": "PRE-DELIVERY",
+        "inspection": "INSPECTION",
+        "pdiAnswer": "RESPONDER PDI",
+        "pdiHistory": "HISTÓRICO DE PDIs",
+        "sync": "SINCRONIZAR DADOS",
+        "perfil": "MEU PERFIL",
+        "exit": "SAIR"
+    },
+    "notificationComponent": {
+        "hasPending": "VOCÊ POSSUI PENDÊNCIAS",
+        "noHasPending": "VOCÊ NÃO POSSUI PENDÊNCIAS",
+        "footerText": "Você possui dados que ainda não foram sincronizados",
+        "editButton": "Editar"
+    },
+    "answerPdiScreen": {
+        "answerPdi": "Responder PDI",
+        "insertChassiNumber": "Inserir o número do chassi",
+        "insertMileage": "Inserir a quilometragem",
+        "pdiDate": "Data do PDI",
+        "executedBy": "Executado por",
+        "insertObservation": "Inserir observações",
+        "next": "Avançar"
+    },
+    "datePickerIOS": {
+        "modalCancel": "Cancelar",
+        "modalConfirm": "Confirmar"
+    }
+}
